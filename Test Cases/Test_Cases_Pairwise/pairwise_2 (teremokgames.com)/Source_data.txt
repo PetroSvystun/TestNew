@@ -1,0 +1,9 @@
+	
+Name: Piter, Andrey, Olena
+Points: 90, 60, 70
+Faculty: biotechnology, mathematic, historical
+Gender: Male, Female
+
+
+
+
